@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "4236F43E-FD87-4A2B-AA3F-FF2A3FF26DFEcoolest-bowling-alleys-BOWLINGALLEY0713-2000-bfcd6e5e38b641e48601636a2cb9566e.heic",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
